@@ -1,3 +1,3 @@
 python -m venv .env
-source .env/bin/activate
+source .env/Script/activate
 python generarPi.py
